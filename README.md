@@ -12,8 +12,9 @@ Below are some features present in application,
 7. On hover user can see short description / detail about the movie.
 8. On click of movie card, we can see complete details about the movie.
 9. Error handeling added
-10. As per the PWA, application will store the data in cache and appliction will not move to network error when there is no internet connectivity available.
+10. Updated the jasmin test cases
+11. As per the PWA, application will store the data in cache and appliction will not move to network error when there is no internet connectivity available.
 
-11. SWUpdate is implemented to get the update popup if there is any change in code.
+12. SWUpdate is implemented to get the update popup if there is any change in code.
 
 Run the application using - npm run start-pwa
